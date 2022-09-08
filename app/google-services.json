@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "552911666512",
+    "firebase_url": "https://chatzz-b91a2.firebaseio.com",
+    "project_id": "chatzz-b91a2",
+    "storage_bucket": "chatzz-b91a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552911666512:android:d3a9e39f08cc99cc",
+        "android_client_info": {
+          "package_name": "com.rai.ayush.chatzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552911666512-0v65stcktgmovb4305g6mnpfcu5g0188.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rai.ayush.chatzz",
+            "certificate_hash": "bfd7f126846baaea25eb1154fcde811252524c97"
+          }
+        },
+        {
+          "client_id": "552911666512-eqn177ic0do8o304hsvoebockhdr512h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATo8b-5TnQlDYtxX-x8cV4pwz7ZxPpweM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552911666512-eqn177ic0do8o304hsvoebockhdr512h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
